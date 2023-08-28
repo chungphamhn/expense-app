@@ -18,4 +18,4 @@ const ExpenseItem = (props) => {
     );
 };
 
-ex
+export default ExpenseItem;
